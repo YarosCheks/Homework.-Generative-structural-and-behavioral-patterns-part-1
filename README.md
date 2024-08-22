@@ -1,0 +1,1 @@
+# Homework.-Generative-structural-and-behavioral-patterns-part-1
