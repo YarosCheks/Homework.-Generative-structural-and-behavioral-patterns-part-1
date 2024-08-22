@@ -1,1 +1,1 @@
-# Homework.-Generative-structural-and-behavioral-patterns-part-1
+# Домашнее задание: Порождающие, структурные и поведенческие шаблоны, часть 1
